@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Boof2015/Boof2015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I just make stuff until it works, no real goal usually. Lately, I've been working on audio software, mainly [Astra](https://github.com/boof2015/astra) and [Prism](https://github.com/boof2015/prism).
 
-Here are some ideas to get you started:
+I also work on AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can check that out [here](https://novaml.ai/)
+
+
+<a href="https://www.star-history.com/?repos=Boof2015%2Fastra%2CBoof2015%2Fprism&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Boof2015/astra%2CBoof2015/prism&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Boof2015/astra%2CBoof2015/prism&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Boof2015/astra%2CBoof2015/prism&type=date&legend=bottom-right" width="600" />
+ </picture>
+</a>
