@@ -1,5 +1,6 @@
 
-I just make stuff until it works, no real goal usually. Lately, I've been working on audio software, mainly [Astra](https://github.com/boof2015/astra) and [Prism](https://github.com/boof2015/prism).
+I just make stuff until it works.
+Lately, I've been working on audio software, mainly [Astra](https://github.com/boof2015/astra), [Prism](https://github.com/boof2015/prism), and [XLRC](https://github.com/boof2015/xlrc).
 
 I also work on AI stuff, you can check that out [here](https://novaml.ai/)
 
