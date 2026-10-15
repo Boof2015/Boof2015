@@ -4,10 +4,10 @@
              ░░▒▒▒▒▒▒▒▒▒▒░                ├─ about: I make stuff until it works.
                 ░░▒▒▒▒▒▒▒▒▒▒░             ├─ building: audio software · AI
        ░▒▒▒▒▒▒▒░░  ░▒▒▒▒▒▒▒▒▒▒░░          ├─ projects
-   ░░▒▒▒▒▒▒▒▒▒▒▒░     ░▒▒▒▒▒▒▒▒▒▒░░       │  ├─ Astra · Prism · XLRC · Parallax · Signal
+   ░░▒▒▒▒▒▒▒▒▒▒▒░     ░▒▒▒▒▒▒▒▒▒▒░░       │  ├─ Astra · Prism · XLRC · Signal
   ▒▒▒▒▒▒▒▒▒▒▒░           ░▒▒▒▒▒▒▒▒▒▒░░    │  └─ NovaAI
-  ▒▒▒▒▒▒▒▒░                 ░▒▒▒▒▒▒▒▒▒    ├─ interests: DSP · spatial audio · open source
-                                          └─ now: making Astra increasingly unreasonable
+  ▒▒▒▒▒▒▒▒░                 ░▒▒▒▒▒▒▒▒▒    ├─ systems
+                                          │  └─ Parallax · Resolve · Stratum
 ```
 <div align="center">
   <code>favorite://signal</code>
